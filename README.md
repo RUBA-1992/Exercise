@@ -1,7 +1,7 @@
 # Exercise
 This file contains the solutions for the Exercise along with code explanations and graphs.
 
-Exercise (No. 1,3,4,6) EDA and Machine Learning:
+(Exercise No. 1,3,4,6) EDA and Machine Learning:
 
 1-Identify Data Anomalies: identify any data anomalies and provide justification for how you would treat the issues you find in the dataset.
 
